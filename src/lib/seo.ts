@@ -37,11 +37,11 @@ export type BlogSeoPayload = {
 	date?: string;
 };
 
-const SITE_URL = "https://your-domain.com";
-const SITE_NAME = "Your Name";
-const DEFAULT_TITLE = "Your Name — Your Role";
+const SITE_URL = "https://dimitrinjila.com";
+const SITE_NAME = "Dimitri Njila";
+const DEFAULT_TITLE = "Dimitri Njila";
 const DEFAULT_DESCRIPTION =
-	"Use this space to describe the kind of work you do, the industries you serve, and what makes your approach unique.";
+	"I design and build practical, business-focused web products for founders, small businesses, and growing teams. From modern landing pages to functional prototypes and full web apps, I bring ideas to life with a builder-first mindset, fast execution, and a clear focus on real business outcomes.";
 const DEFAULT_KEYWORDS = [
 	"portfolio",
 	"freelance",
