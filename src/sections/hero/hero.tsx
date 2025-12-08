@@ -188,7 +188,7 @@ export default function Hero() {
         <div style={{ visibility: "hidden" }} ref={badgeRef} className="w-fit">
           <ShinyBadge>
             <FrameIcon aria-hidden="true" className="size-3.5" />
-            Full Stack Engineer
+            Business-Focused Product Engineer
           </ShinyBadge>
         </div>
         <h1
@@ -204,8 +204,8 @@ export default function Hero() {
           ref={descriptionRef}
           className="text-base md:text-lg text-center text-foreground/70 font-medium text-balance leading-relaxed max-w-xl"
         >
-          I build fast, user-friendly web products that help brands convert,
-          scale, and compete.
+          I design and develop user-focused web experiences that convert, scale,
+          and drive business results.
         </p>
       </div>
       <div ref={actionsRef} className="relative z-10  flex items-center gap-2">
