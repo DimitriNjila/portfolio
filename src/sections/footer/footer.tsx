@@ -28,8 +28,9 @@ export default function Footer() {
               <p className="text-sm font-medium">Dimitri Njila</p>
             </div>
             <p className="text-xs text-foreground/70 leading-relaxed max-w-xs">
-              Use this placeholder copy to describe your focus, niche, or the
-              type of projects you love working on.
+              Building practical, business-ready web products with a focus on
+              clarity, craftsmanship, and real-world impact. Let’s create
+              something meaningful together.
             </p>
           </div>
 

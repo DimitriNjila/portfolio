@@ -22,8 +22,8 @@ function App() {
       <Hero />
       <Services />
       <Works />
-      <Showcase />
-      {/* <Testimonials /> */}
+      {/* <Showcase /> */}
+      <Testimonials />
       <FAQ />
       {/* <Blog posts={posts} /> */}
       <Contact />

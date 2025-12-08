@@ -8,13 +8,25 @@ export interface WorksItem {
 export const works: WorksItem[] = [
 	{
 		image: "/placeholder-1.jpg",
-		title: "Project 1",
+		title: "Saas Waitlist",
 		description: "Project Description.",
 		link: "https://example.com/project-1",
 	},
 	{
 		image: "/placeholder-1.jpg",
-		title: "Project 2",
+		title: "Apple Landing Page",
+		description: "Project Description.",
+		link: "https://example.com/project-2",
+	},
+	{
+		image: "/placeholder-1.jpg",
+		title: "AI Photo generator",
+		description: "Project Description.",
+		link: "https://example.com/project-2",
+	},
+	{
+		image: "/placeholder-1.jpg",
+		title: "Sketch to Design",
 		description: "Project Description.",
 		link: "https://example.com/project-2",
 	},

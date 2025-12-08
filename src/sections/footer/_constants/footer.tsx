@@ -54,8 +54,8 @@ export type FooterSocialLink = {
 export const footerLinks: FooterLink[] = [
   { label: "Services", href: "#services" },
   { label: "Works", href: "#works" },
-  { label: "Showcase", href: "#showcase" },
-  // { label: "Testimonials", href: "#testimonials" },
+  // { label: "Showcase", href: "#showcase" },
+  { label: "Testimonials", href: "#testimonials" },
   { label: "FAQ", href: "#faq" },
   // { label: "Blog", href: "#blog" },
 ];
@@ -63,17 +63,17 @@ export const footerLinks: FooterLink[] = [
 export const footerSocialLinks: FooterSocialLink[] = [
   {
     label: "GitHub",
-    href: "https://github.com/your-handle",
+    href: "https://github.com/DimitriNjila",
     icon: IconGithub,
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/your-profile",
+    href: "https://www.linkedin.com/in/dimitri-njila-8b69931a9/",
     icon: IconLinkedIn,
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/your-handle",
+    href: "https://www.instagram.com/dymytry_21/",
     icon: IconInstagram,
   },
 ];
