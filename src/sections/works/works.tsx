@@ -20,6 +20,7 @@ export default function Works() {
           title={item.title}
           description={item.description}
           link={item.link}
+          color={item.color}
         />
       ))}
     </Section>
