@@ -70,14 +70,8 @@ export default function Footer() {
 
       <div className="text-xs text-foreground/70 border-t border-border/80">
         <div className="w-full md:max-w-5xl mx-auto flex flex-col md:flex-row gap-1 px-4 py-4 md:px-2 items-center justify-between">
-          <p>
-            © {currentYear} Your Name. Update this footer text to match your
-            brand.
-          </p>
-          <p>
-            Let visitors know where you work from or the type of collaborations
-            you take on.
-          </p>
+          <p>© {currentYear} Dimitri Njila. All rights reserved.</p>
+          <p>Toronto, Forza Barca</p>
         </div>
       </div>
     </footer>
