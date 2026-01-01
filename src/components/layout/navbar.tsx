@@ -20,7 +20,7 @@ const NAV_LINKS = [
   // { label: "Showcase", target: "#showcase" },
   { label: "Testimonials", target: "#testimonials" },
   { label: "FAQ", target: "#faq" },
-  //   { label: "Blog", target: "#blog" },
+  { label: "Blog", target: "#blog" },
 ] as const;
 
 const colorWithOpacity = (token: string, opacity: number) => {

@@ -25,7 +25,7 @@ function App() {
       {/* <Showcase /> */}
       <Testimonials />
       <FAQ />
-      {/* <Blog posts={posts} /> */}
+      <Blog posts={posts} />
       <Contact />
       <Footer />
     </main>
