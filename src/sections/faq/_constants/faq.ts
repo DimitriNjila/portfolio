@@ -19,11 +19,6 @@ export const faqItems: FaqItem[] = [ {
       "Timelines vary by scope, but sprints usually run in 1–3 week cycles, and full MVPs are often completed within a few weeks."
   },
   {
-    question: "How do you communicate during a project?",
-    answer:
-      "I keep clients updated through weekly summaries, async notes, and Loom walkthroughs for major milestones."
-  },
-  {
     question: "What tools and technologies do you use?",
     answer:
       "I work primarily with React, TypeScript, Node.js, Vite, Tailwind, and modern cloud infrastructure, with AI tools integrated where helpful."
@@ -39,19 +34,9 @@ export const faqItems: FaqItem[] = [ {
       "Pricing depends on scope and complexity. I offer flat-rate packages for common builds and retainers for longer engagements."
   },
   {
-    question: "What’s your background?",
-    answer:
-      "I studied chemical Engineering at the University of Waterloo and found a passion for software and business development. Now I specialize in helping early-stage teams ship real products."
-  },
-  {
     question: "Why do you focus on end-to-end development?",
     answer:
       "My mind naturally thinks in full product cycles, so I’ve taken the time to understand every stage of development. I also believe the best products are built when design and engineering work in tight alignment."
-  },
-  {
-    question: "How do you approach problem-solving?",
-    answer:
-      "prioritize clarity first. That means understanding the goal, prototyping early, and iterating based on real user needs."
   },
   {
     question: "What makes you different from other developers or studios?",
