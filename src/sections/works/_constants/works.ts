@@ -18,7 +18,7 @@ export const works: WorksItem[] = [
     "image": "/shiftcraft.png",
     "title": "Restaurant Scheduling App",
     "description": "A clean, intuitive staff scheduling tool designed for restaurants. Includes weekly and monthly views, role assignments, shift management, and a responsive interface built for real-world operational workflows.",
-    "link": "https://example.com/scheduling-app",
+    "link": "https://shiftcraft-6apf.vercel.app/",
 	"color": "#000"
   },
   {
